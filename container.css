@@ -1,0 +1,39 @@
+.status-box
+{
+	max-width:  600px;
+	float: none;
+	margin:40px;
+	background-color: #fff;
+
+}
+.box-center{	background-color: #fff;
+	padding:20px;
+
+}
+.status-box1
+{
+	max-width:  900px;
+	float: none;
+	margin:50px;
+	background-color: #fff;
+}
+.box-center1{
+	background-color: #fff;
+	padding:20px;
+
+}
+.imagemargin{
+	margin-left: 800px;
+}
+.status-box2
+{
+	max-width:  900px;
+	float: none;
+	margin:50px;
+	background-color: #fff;
+}
+.box-center2{
+	background-color: #fff;
+	padding:20px;
+
+}
